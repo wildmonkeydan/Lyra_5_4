@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AsyncMixin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE\Lyra_5_4\Plugins\AsyncMixin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AsyncMixin\Module.AsyncMixin.cpp.obj"
+"D:\UE\Lyra_5_4\Plugins\AsyncMixin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AsyncMixin\Default.rc2.res"
+/OUT:"D:\UE\Lyra_5_4\Plugins\AsyncMixin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AsyncMixin\UnrealEditor-AsyncMixin.lib"

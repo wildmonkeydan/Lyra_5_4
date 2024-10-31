@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TopDownArenaRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE\Lyra_5_4\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\Module.TopDownArenaRuntime.cpp.obj"
+"D:\UE\Lyra_5_4\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\Default.rc2.res"
+/OUT:"D:\UE\Lyra_5_4\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDownArenaRuntime\UnrealEditor-TopDownArenaRuntime.lib"

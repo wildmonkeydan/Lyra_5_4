@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LyraExtTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE\Lyra_5_4\Plugins\LyraExtTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\LyraExtTool\Module.LyraExtTool.cpp.obj"
+"D:\UE\Lyra_5_4\Plugins\LyraExtTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\LyraExtTool\Default.rc2.res"
+/OUT:"D:\UE\Lyra_5_4\Plugins\LyraExtTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\LyraExtTool\UnrealEditor-LyraExtTool.lib"

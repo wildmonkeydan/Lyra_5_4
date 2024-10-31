@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ShooterTestsRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE\Lyra_5_4\Plugins\GameFeatures\ShooterTests\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterTestsRuntime\Module.ShooterTestsRuntime.cpp.obj"
+"D:\UE\Lyra_5_4\Plugins\GameFeatures\ShooterTests\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterTestsRuntime\Default.rc2.res"
+/OUT:"D:\UE\Lyra_5_4\Plugins\GameFeatures\ShooterTests\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShooterTestsRuntime\UnrealEditor-ShooterTestsRuntime.lib"

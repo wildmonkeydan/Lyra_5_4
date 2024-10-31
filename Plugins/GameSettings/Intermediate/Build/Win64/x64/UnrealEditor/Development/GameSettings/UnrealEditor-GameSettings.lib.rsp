@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GameSettings.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE\Lyra_5_4\Plugins\GameSettings\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameSettings\Module.GameSettings.cpp.obj"
+"D:\UE\Lyra_5_4\Plugins\GameSettings\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameSettings\Default.rc2.res"
+/OUT:"D:\UE\Lyra_5_4\Plugins\GameSettings\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameSettings\UnrealEditor-GameSettings.lib"

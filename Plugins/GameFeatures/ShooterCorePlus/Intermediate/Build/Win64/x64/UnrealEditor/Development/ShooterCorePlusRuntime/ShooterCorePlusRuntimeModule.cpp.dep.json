@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue\\lyra_5_4\\plugins\\gamefeatures\\shootercoreplus\\source\\shootercoreplusruntime\\private\\shootercoreplusruntimemodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue\\lyra_5_4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue\\lyra_5_4\\plugins\\gamefeatures\\shootercoreplus\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootercoreplusruntime\\definitions.shootercoreplusruntime.h",
+            "d:\\ue\\lyra_5_4\\plugins\\gamefeatures\\shootercoreplus\\source\\shootercoreplusruntime\\public\\shootercoreplusruntimemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
